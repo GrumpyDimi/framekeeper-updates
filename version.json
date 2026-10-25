@@ -1,15 +1,15 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/latest",
-  "notes": "Kamera-Icon jetzt auch im Fenster und in der Taskleiste.",
+  "notes": "Update-Ablauf überarbeitet (wartet, bis Framekeeper beendet ist; Protokoll bei Fehlern), Taskleisten-Kennung in den Verknüpfungen.",
   "windows": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.3/Framekeeper-Setup-1.2.3.exe",
-    "sha256": "7641d785dc5ad854e5d2e77fc29c44d8706d973ce8a909fc7c149241cab5c815",
-    "size": 24443106
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.4/Framekeeper-Setup-1.2.4.exe",
+    "sha256": "49217a9427fc675c0bc27cdc7b920b7d7d1007531bfb3532d9843711bb5ff9ee",
+    "size": 24446478
   },
   "mac": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.3/Framekeeper-1.2.3.dmg",
-    "sha256": "2ef46bc72cf912954c3b4962a31c7ae74184f92de1a00a16cb60ad08844f7a3f",
-    "size": 22645806
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.4/Framekeeper-1.2.4.dmg",
+    "sha256": "4df2e3f9cc410f6022910e1def477d7ff3b230952cd8f5ade7404815b488e918",
+    "size": 22647009
   }
 }
