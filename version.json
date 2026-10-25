@@ -1,15 +1,15 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/latest",
-  "notes": "Update-Ablauf überarbeitet (wartet, bis Framekeeper beendet ist; Protokoll bei Fehlern), Taskleisten-Kennung in den Verknüpfungen.",
+  "notes": "Icon-Verknüpfungen zeigen auf eine eigene Icon-Datei (kein alter Windows-Zwischenspeicher mehr).",
   "windows": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.4/Framekeeper-Setup-1.2.4.exe",
-    "sha256": "49217a9427fc675c0bc27cdc7b920b7d7d1007531bfb3532d9843711bb5ff9ee",
-    "size": 24446478
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.5/Framekeeper-Setup-1.2.5.exe",
+    "sha256": "c2704eb861bf35360a7b0ebb0699045af50ed4807654a6ca18472fc7534999be",
+    "size": 24461232
   },
   "mac": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.4/Framekeeper-1.2.4.dmg",
-    "sha256": "4df2e3f9cc410f6022910e1def477d7ff3b230952cd8f5ade7404815b488e918",
-    "size": 22647009
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.5/Framekeeper-1.2.5.dmg",
+    "sha256": "97cce2993cf2c7b994daefb0d066420c13fbd32a82fc0b1d4380e2f2bb060220",
+    "size": 22649699
   }
 }
