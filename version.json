@@ -1,15 +1,15 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/latest",
-  "notes": "Neu: Framekeeper aktualisiert sich selbst (Hinweis beim Start, ein Klick), neues App-Icon.",
+  "notes": "Taskleisten-Icon schärfer (mehrere Größen), eigene App-ID für die Taskleiste.",
   "windows": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.0/Framekeeper-Setup-1.2.0.exe",
-    "sha256": "3a1149e5776f25a49c7cd0f04bf7500b6bc45c7d3f282d102744b0a62eb17978",
-    "size": 24457620
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.1/Framekeeper-Setup-1.2.1.exe",
+    "sha256": "d44574bbb4c4289466f93c6abcbe5ae7605d7ef9760e574c609b17094629cdee",
+    "size": 24452945
   },
   "mac": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.0/Framekeeper-1.2.0.dmg",
-    "sha256": "bea3ebb9c4fbfa322af9ff7ccbbed73d851901a788a4582e6981a34ea35344ca",
-    "size": 22513122
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.1/Framekeeper-1.2.1.dmg",
+    "sha256": "42bf5a451585b965d02c73bd3a9e9665c6512aec09c46cfd3bf6992d2e48f55a",
+    "size": 22609311
   }
 }
