@@ -1,15 +1,15 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/latest",
-  "notes": "Fix: Nach dem Selbst-Update startet Framekeeper wieder von selbst.",
+  "notes": "Kamera-Icon jetzt auch im Fenster und in der Taskleiste.",
   "windows": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.2/Framekeeper-Setup-1.2.2.exe",
-    "sha256": "42094a59372a0a3267baaf15632d1894a5f5caf1c16d86d6ac31cfeb2664a7fe",
-    "size": 24454725
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.3/Framekeeper-Setup-1.2.3.exe",
+    "sha256": "7641d785dc5ad854e5d2e77fc29c44d8706d973ce8a909fc7c149241cab5c815",
+    "size": 24443106
   },
   "mac": {
-    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.2/Framekeeper-1.2.2.dmg",
-    "sha256": "bbe1e45548dd0063c4886350c13df84dcb6e0dca1093df1cb0e076db5f4ba4eb",
-    "size": 22607880
+    "url": "https://github.com/GrumpyDimi/framekeeper-updates/releases/download/v1.2.3/Framekeeper-1.2.3.dmg",
+    "sha256": "2ef46bc72cf912954c3b4962a31c7ae74184f92de1a00a16cb60ad08844f7a3f",
+    "size": 22645806
   }
 }
